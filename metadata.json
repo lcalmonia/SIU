@@ -1,8 +1,5 @@
 {
-  "name": "DCWD Project Monitor",
-  "description": "Centralized engineering workflow system for tracking project lifecycles from petition through construction handover.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
+  "name": "SIU Project Monitoring",
+  "description": "Survey and Investigation Unit project monitoring system.",
+  "requestFramePermissions": []
 }
