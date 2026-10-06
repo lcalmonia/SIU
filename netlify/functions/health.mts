@@ -1,0 +1,1 @@
+export default async () => Response.json({ ok:true, service:"siu-project-monitor", timestamp:new Date().toISOString() });
